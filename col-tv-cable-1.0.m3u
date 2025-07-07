@@ -1,7 +1,4 @@
 #EXTM3U
-#
-#
-#
 #*****************************************************
 #SERVIDOR 1 ******************************************
 #************ 118 canales ****************************
@@ -1081,4 +1078,3 @@ https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.
 #348
 #EXTINF:-1 group-title="TV NACIONAL",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-
