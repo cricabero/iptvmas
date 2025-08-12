@@ -1,7 +1,7 @@
 #EXTM3U
-#tvg-logo=""
+#
 #A
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/904/png-transparent-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" group-title="ENTRETENIMIENTO",A&E
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptv/logo/A&E.png" group-title="ENTRETENIMIENTO",A&E
 http://201.230.137.204:8000/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/503/png-transparent-a-e-network-high-definition-television-logo-dish-network-opening-miscellaneous-television-angle-thumbnail.png" group-title="ENTRETENIMIENTO",A&E HD
@@ -792,4 +792,5 @@ http://190.60.40.35:12500/play/VENUS/index.m3u8
 
 ##EXTINF:-1 group-title="ADULTOS",VENUS
 #http://181.78.7.90:12500/play/VENUS/index.m3u8
+
 
