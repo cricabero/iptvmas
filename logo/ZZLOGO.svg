@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="731.20001"
+   height="537.28003"
+   viewBox="0 0 731.20001 537.28003"
+   sodipodi:docname="ZZLOGO.svg"
+   inkscape:export-filename="WARNERTV.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><style
+       type="text/css"
+       id="style6392">
+   <![CDATA[
+    .fil191 {fill:#7B21C5}
+    .fil192 {fill:#7B21C6}
+    .fil193 {fill:#7B21C6}
+    .fil188 {fill:#7C21C3}
+    .fil189 {fill:#7C21C4}
+    .fil190 {fill:#7C21C5}
+    .fil185 {fill:#7D21C1}
+    .fil186 {fill:#7D21C2}
+    .fil187 {fill:#7D21C3}
+    .fil183 {fill:#7E21C0}
+    .fil184 {fill:#7E21C1}
+    .fil181 {fill:#7F21BE}
+    .fil182 {fill:#7F21BF}
+    .fil179 {fill:#8021BC}
+    .fil180 {fill:#8021BD}
+    .fil176 {fill:#8121BA}
+    .fil177 {fill:#8121BB}
+    .fil178 {fill:#8121BC}
+    .fil173 {fill:#8221B8}
+    .fil174 {fill:#8221B9}
+    .fil175 {fill:#8221BA}
+    .fil170 {fill:#8321B6}
+    .fil171 {fill:#8321B7}
+    .fil172 {fill:#8321B8}
+    .fil168 {fill:#8421B5}
+    .fil167 {fill:#8421B5}
+    .fil169 {fill:#8421B6}
+    .fil258 {fill:#9C29A5}
+    .fil257 {fill:#9C29A5}
+    .fil260 {fill:#9D28A4}
+    .fil259 {fill:#9D29A4}
+    .fil261 {fill:#9E28A3}
+    .fil263 {fill:#9F27A2}
+    .fil262 {fill:#9F28A2}
+    .fil264 {fill:#A027A1}
+    .fil266 {fill:#A126A0}
+    .fil265 {fill:#A127A0}
+    .fil267 {fill:#A2269F}
+    .fil269 {fill:#A3259E}
+    .fil268 {fill:#A3269E}
+    .fil270 {fill:#A4259D}
+    .fil271 {fill:#A5259C}
+    .fil273 {fill:#A6249B}
+    .fil272 {fill:#A6259B}
+    .fil274 {fill:#A7249A}
+    .fil276 {fill:#A82399}
+    .fil275 {fill:#A82499}
+    .fil277 {fill:#A92398}
+    .fil279 {fill:#AA2297}
+    .fil278 {fill:#AA2397}
+    .fil280 {fill:#AB2296}
+    .fil282 {fill:#AC2195}
+    .fil281 {fill:#AC2295}
+    .fil283 {fill:#AD2194}
+    .fil284 {fill:#AD2194}
+    .fil196 {fill:#D62962}
+    .fil195 {fill:#D62963}
+    .fil194 {fill:#D62963}
+    .fil197 {fill:#D72962}
+    .fil199 {fill:#D72A61}
+    .fil198 {fill:#D72A62}
+    .fil201 {fill:#D82A60}
+    .fil200 {fill:#D82A61}
+    .fil202 {fill:#D82B60}
+    .fil205 {fill:#D92B5E}
+    .fil204 {fill:#D92B5F}
+    .fil203 {fill:#D92B60}
+    .fil206 {fill:#DA2B5E}
+    .fil208 {fill:#DA2C5D}
+    .fil207 {fill:#DA2C5E}
+    .fil210 {fill:#DB2C5C}
+    .fil209 {fill:#DB2C5D}
+    .fil213 {fill:#DC2D5A}
+    .fil212 {fill:#DC2D5B}
+    .fil211 {fill:#DC2D5C}
+    .fil214 {fill:#DD2D5A}
+    .fil216 {fill:#DD2E59}
+    .fil215 {fill:#DD2E5A}
+    .fil218 {fill:#DE2E58}
+    .fil217 {fill:#DE2E59}
+    .fil219 {fill:#DF2E58}
+    .fil220 {fill:#DF2F57}
+    .fil221 {fill:#E02F56}
+    .fil222 {fill:#E03055}
+    .fil224 {fill:#E13054}
+    .fil223 {fill:#E13055}
+    .fil225 {fill:#E23054}
+    .fil226 {fill:#E23153}
+    .fil227 {fill:#E33152}
+    .fil228 {fill:#E33251}
+    .fil230 {fill:#E43250}
+    .fil229 {fill:#E43251}
+    .fil231 {fill:#E53250}
+    .fil232 {fill:#E5334F}
+    .fil233 {fill:#E6334E}
+    .fil235 {fill:#E7344C}
+    .fil234 {fill:#E7344D}
+    .fil236 {fill:#E8344C}
+    .fil237 {fill:#E8354B}
+    .fil239 {fill:#E93549}
+    .fil238 {fill:#E9354A}
+    .fil240 {fill:#EA3549}
+    .fil242 {fill:#EA3648}
+    .fil241 {fill:#EA3649}
+    .fil244 {fill:#EB3647}
+    .fil243 {fill:#EB3648}
+    .fil245 {fill:#EB3747}
+    .fil247 {fill:#EC3745}
+    .fil246 {fill:#EC3746}
+    .fil248 {fill:#ED3745}
+    .fil250 {fill:#ED3844}
+    .fil249 {fill:#ED3845}
+    .fil252 {fill:#EE3843}
+    .fil251 {fill:#EE3844}
+    .fil253 {fill:#EE3943}
+    .fil255 {fill:#EF3942}
+    .fil256 {fill:#EF3942}
+    .fil254 {fill:#EF3943}
+    .fil0 {fill:#FF6331}
+    .fil1 {fill:#FF6431}
+    .fil2 {fill:#FF6530}
+    .fil3 {fill:#FF6630}
+    .fil4 {fill:#FF6730}
+    .fil5 {fill:#FF682F}
+    .fil6 {fill:#FF692F}
+    .fil7 {fill:#FF6A2F}
+    .fil8 {fill:#FF6B2E}
+    .fil9 {fill:#FF6C2E}
+    .fil10 {fill:#FF6D2E}
+    .fil11 {fill:#FF6E2D}
+    .fil12 {fill:#FF6F2D}
+    .fil13 {fill:#FF702D}
+    .fil14 {fill:#FF712C}
+    .fil15 {fill:#FF722C}
+    .fil16 {fill:#FF732C}
+    .fil17 {fill:#FF742B}
+    .fil18 {fill:#FF752B}
+    .fil19 {fill:#FF772A}
+    .fil20 {fill:#FF782A}
+    .fil21 {fill:#FF792A}
+    .fil22 {fill:#FF7A29}
+    .fil23 {fill:#FF7B29}
+    .fil24 {fill:#FF7C29}
+    .fil25 {fill:#FF7D28}
+    .fil26 {fill:#FF7E28}
+    .fil27 {fill:#FF7F27}
+    .fil28 {fill:#FF8027}
+    .fil29 {fill:#FF8127}
+    .fil30 {fill:#FF8226}
+    .fil31 {fill:#FF8326}
+    .fil33 {fill:#FF8425}
+    .fil32 {fill:#FF8426}
+    .fil34 {fill:#FF8525}
+    .fil35 {fill:#FF8625}
+    .fil37 {fill:#FF8724}
+    .fil36 {fill:#FF8725}
+    .fil38 {fill:#FF8824}
+    .fil39 {fill:#FF8924}
+    .fil40 {fill:#FF8A23}
+    .fil41 {fill:#FF8B23}
+    .fil42 {fill:#FF8C22}
+    .fil43 {fill:#FF8D22}
+    .fil44 {fill:#FF8E22}
+    .fil45 {fill:#FF8F21}
+    .fil46 {fill:#FF9021}
+    .fil47 {fill:#FF9121}
+    .fil48 {fill:#FF9220}
+    .fil49 {fill:#FF9320}
+    .fil51 {fill:#FF941F}
+    .fil50 {fill:#FF9420}
+    .fil52 {fill:#FF951F}
+    .fil53 {fill:#FF961F}
+    .fil54 {fill:#FF971E}
+    .fil55 {fill:#FF981E}
+    .fil57 {fill:#FF991D}
+    .fil56 {fill:#FF991E}
+    .fil58 {fill:#FF9A1D}
+    .fil59 {fill:#FF9B1D}
+    .fil60 {fill:#FF9C1C}
+    .fil61 {fill:#FF9D1C}
+    .fil62 {fill:#FF9E1C}
+    .fil64 {fill:#FF9F1B}
+    .fil63 {fill:#FF9F1C}
+    .fil65 {fill:#FFA01B}
+    .fil66 {fill:#FFA11B}
+    .fil67 {fill:#FFA21A}
+    .fil68 {fill:#FFA31A}
+    .fil69 {fill:#FFA41A}
+    .fil70 {fill:#FFA519}
+    .fil71 {fill:#FFA619}
+    .fil72 {fill:#FFA718}
+    .fil73 {fill:#FFA818}
+    .fil75 {fill:#FFA917}
+    .fil74 {fill:#FFA918}
+    .fil76 {fill:#FFAA17}
+    .fil77 {fill:#FFAB17}
+    .fil78 {fill:#FFAC16}
+    .fil79 {fill:#FFAD16}
+    .fil101 {fill:#FFAD21}
+    .fil80 {fill:#FFAE16}
+    .fil103 {fill:#FFAE20}
+    .fil102 {fill:#FFAE21}
+    .fil81 {fill:#FFAF15}
+    .fil105 {fill:#FFAF1F}
+    .fil104 {fill:#FFAF20}
+    .fil82 {fill:#FFB015}
+    .fil107 {fill:#FFB01E}
+    .fil106 {fill:#FFB01F}
+    .fil84 {fill:#FFB114}
+    .fil83 {fill:#FFB115}
+    .fil109 {fill:#FFB11D}
+    .fil108 {fill:#FFB11E}
+    .fil85 {fill:#FFB214}
+    .fil110 {fill:#FFB21D}
+    .fil86 {fill:#FFB314}
+    .fil112 {fill:#FFB31C}
+    .fil111 {fill:#FFB31D}
+    .fil88 {fill:#FFB413}
+    .fil87 {fill:#FFB414}
+    .fil114 {fill:#FFB41B}
+    .fil113 {fill:#FFB41C}
+    .fil89 {fill:#FFB513}
+    .fil116 {fill:#FFB51A}
+    .fil115 {fill:#FFB51B}
+    .fil90 {fill:#FFB613}
+    .fil118 {fill:#FFB619}
+    .fil117 {fill:#FFB61A}
+    .fil91 {fill:#FFB712}
+    .fil119 {fill:#FFB719}
+    .fil92 {fill:#FFB812}
+    .fil120 {fill:#FFB818}
+    .fil94 {fill:#FFB911}
+    .fil93 {fill:#FFB912}
+    .fil122 {fill:#FFB917}
+    .fil121 {fill:#FFB918}
+    .fil95 {fill:#FFBA11}
+    .fil124 {fill:#FFBA16}
+    .fil123 {fill:#FFBA17}
+    .fil96 {fill:#FFBB11}
+    .fil125 {fill:#FFBB16}
+    .fil98 {fill:#FFBC10}
+    .fil97 {fill:#FFBC11}
+    .fil126 {fill:#FFBC15}
+    .fil99 {fill:#FFBD10}
+    .fil100 {fill:#FFBD10}
+    .fil127 {fill:#FFBD14}
+    .fil129 {fill:#FFBE13}
+    .fil128 {fill:#FFBE14}
+    .fil131 {fill:#FFBF12}
+    .fil130 {fill:#FFBF13}
+    .fil132 {fill:#FFC012}
+    .fil133 {fill:#FFC111}
+    .fil134 {fill:#FFC210}
+    .fil135 {fill:#FFC30F}
+    .fil137 {fill:#FFC40E}
+    .fil136 {fill:#FFC40F}
+    .fil139 {fill:#FFC50D}
+    .fil138 {fill:#FFC50E}
+    .fil140 {fill:#FFC60D}
+    .fil141 {fill:#FFC70C}
+    .fil142 {fill:#FFC80B}
+    .fil144 {fill:#FFC90A}
+    .fil143 {fill:#FFC90B}
+    .fil146 {fill:#FFCA09}
+    .fil145 {fill:#FFCA0A}
+    .fil147 {fill:#FFCB09}
+    .fil148 {fill:#FFCC08}
+    .fil150 {fill:#FFCD07}
+    .fil149 {fill:#FFCD08}
+    .fil152 {fill:#FFCE06}
+    .fil151 {fill:#FFCE07}
+    .fil154 {fill:#FFCF05}
+    .fil153 {fill:#FFCF06}
+    .fil156 {fill:#FFD004}
+    .fil155 {fill:#FFD005}
+    .fil157 {fill:#FFD104}
+    .fil159 {fill:#FFD203}
+    .fil158 {fill:#FFD204}
+    .fil161 {fill:#FFD302}
+    .fil160 {fill:#FFD303}
+    .fil163 {fill:#FFD401}
+    .fil162 {fill:#FFD402}
+    .fil165 {fill:#FFD500}
+    .fil164 {fill:#FFD501}
+    .fil166 {fill:#FFD600}
+   ]]>
+  </style><clipPath
+       id="id0">
+      <path
+   d="M6708 14381l-6708 -6302 0 21619c0,1451 523,2795 1329,3845 737,959 1592,1573 2702,2070 486,218 1048,364 1580,424 372,42 756,54 1141,56l697 0c850,0 1765,-215 2500,-505 1176,-463 2262,-1065 3214,-1904l446 -447c173,-172 319,-337 492,-510l364 -383c821,-1006 1507,-2426 1507,-3757l0 -7197c0,-739 -388,-1278 -1039,-1420 -230,-51 -503,-38 -782,-38 -2471,0 -4942,0 -7412,0 -242,0 -597,27 -801,-19 -401,-90 -729,-434 -729,-928l0 -3681c0,-400 268,-714 546,-838 211,-93 609,-76 953,-85z"
+   id="path6394" />
+     </clipPath><clipPath
+       id="id1">
+      <path
+   d="M15972 21696c-9699,2063 -11855,7323 -9756,14386 178,7 357,10 536,11l697 0c850,0 1765,-215 2500,-505 1176,-463 2262,-1065 3214,-1904l446 -447c173,-172 319,-337 492,-510l364 -383c821,-1006 1507,-2426 1507,-3757l0 -6891z"
+   id="path6397" />
+     </clipPath><clipPath
+       id="id2">
+      <path
+   d="M24505 0l-1760 5192 93 0c333,0 576,203 675,437 97,233 54,750 54,1076l0 13537c0,299 -38,871 38,1091 198,569 887,606 1269,217l200 -219 9532 -9832c178,-222 669,-661 836,-877 877,-1134 1329,-2395 1329,-4008 0,-291 -32,-510 -36,-803 -2,-197 -51,-578 -84,-754 -124,-661 -354,-1249 -696,-1818 -110,-182 -213,-329 -339,-498 -119,-159 -241,-320 -379,-460l-538 -518c-411,-367 -896,-679 -1388,-925 -1022,-511 -2174,-838 -3370,-838l-5436 0z"
+   id="path6400" />
+     </clipPath><clipPath
+       id="id3">
+      <path
+   d="M0 14792c1275,1047 2994,1735 5209,2054l0 -1542c0,-400 268,-714 546,-838 286,-127 918,-49 1291,-112 588,-99 1158,-224 1729,-365 184,-46 367,-110 550,-160 522,-144 1008,-368 1504,-573 322,-133 626,-299 926,-476 584,-346 1126,-725 1644,-1161 124,-105 229,-233 359,-333 192,-148 512,-530 680,-723 328,-376 616,-791 882,-1213l262 -448c267,-446 465,-936 658,-1419 212,-527 345,-1065 503,-1610 99,-339 297,-681 723,-681l3215 0c-363,-2204 -1897,-3922 -4514,-5192l-9938 0c-1130,0 -2234,381 -3057,878 -328,198 -616,416 -911,655 -289,233 -553,510 -783,801l-487 679c-59,90 -95,162 -150,252 -146,242 -275,538 -383,800 -293,710 -458,1512 -458,2312l0 8415z"
+   id="path6403" />
+     </clipPath><clipPath
+       id="id4">
+      <path
+   d="M14367 0c-988,4228 -997,7782 10,10635 22,-26 43,-50 61,-72 328,-376 616,-791 882,-1213l262 -448c267,-446 465,-936 658,-1419 212,-527 345,-1065 503,-1610 99,-339 297,-681 723,-681l5372 0c333,0 576,203 675,437 97,233 54,750 54,1076l0 4519c2364,-2990 4064,-7042 4025,-11224l-13225 0z"
+   id="path6406" />
+     </clipPath><linearGradient
+       id="8b064ca1-c858-4cb3-b367-7cd7a9998c7f"
+       data-name="Degradado sin nombre 23"
+       x1="-2989.84"
+       y1="5563.52"
+       x2="-2491.3"
+       y2="4700.03"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0.07"
+         stop-color="red"
+         id="stop777" /><stop
+         offset="0.14"
+         stop-color="#ff0505"
+         id="stop779" /><stop
+         offset="0.21"
+         stop-color="#ff1212"
+         id="stop781" /><stop
+         offset="0.29"
+         stop-color="#ff2828"
+         id="stop783" /><stop
+         offset="0.38"
+         stop-color="#ff4747"
+         id="stop785" /><stop
+         offset="0.46"
+         stop-color="#ff6f6f"
+         id="stop787" /><stop
+         offset="0.55"
+         stop-color="#ff9f9f"
+         id="stop789" /><stop
+         offset="0.63"
+         stop-color="#ffd8d8"
+         id="stop791" /><stop
+         offset="0.68"
+         stop-color="#fff"
+         id="stop793" /><stop
+         offset="0.73"
+         stop-color="#fdd"
+         id="stop795" /><stop
+         offset="0.83"
+         stop-color="#f88"
+         id="stop797" /><stop
+         offset="0.98"
+         stop-color="red"
+         id="stop799" /></linearGradient><linearGradient
+       id="09fc0082-0e87-40cf-bf04-692daa7f3506"
+       data-name="Degradado sin nombre 26"
+       x1="-2487.6"
+       y1="5731.13"
+       x2="-2487.6"
+       y2="5162.95"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ff5252"
+         id="stop802" /><stop
+         offset="0.22"
+         stop-color="#ff3838"
+         id="stop804" /><stop
+         offset="0.54"
+         stop-color="#ff1919"
+         id="stop806" /><stop
+         offset="0.8"
+         stop-color="#ff0707"
+         id="stop808" /><stop
+         offset="0.99"
+         stop-color="red"
+         id="stop810" /></linearGradient><linearGradient
+       id="88e673f0-99bd-4595-a352-8f3903edf225"
+       data-name="Degradado sin nombre 3"
+       x1="-2416.31"
+       y1="5754.87"
+       x2="-2380.05"
+       y2="5754.87"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0.49"
+         stop-color="#ffd983"
+         id="stop813" /><stop
+         offset="0.99"
+         stop-color="#ffbc00"
+         id="stop815" /></linearGradient><linearGradient
+       id="64a4ec87-93f8-4a7f-9b6d-141c916b0803"
+       data-name="Degradado sin nombre 17"
+       x1="-2057.67"
+       y1="5656.4"
+       x2="-2015.73"
+       y2="5771.61"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0.18"
+         stop-color="#ffbc00"
+         id="stop818" /><stop
+         offset="0.31"
+         stop-color="#f9b800"
+         id="stop820" /><stop
+         offset="0.47"
+         stop-color="#e9ac00"
+         id="stop822" /><stop
+         offset="0.66"
+         stop-color="#cd9a00"
+         id="stop824" /><stop
+         offset="0.86"
+         stop-color="#a87f00"
+         id="stop826" /><stop
+         offset="0.99"
+         stop-color="#8c6c00"
+         id="stop828" /></linearGradient><linearGradient
+       id="54762136-18de-4386-847a-3bf73579dfa5"
+       data-name="Degradado sin nombre 67"
+       x1="-1789.61"
+       y1="5347.44"
+       x2="-1691.74"
+       y2="5347.44"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0.23"
+         stop-color="#ffd983"
+         id="stop831" /><stop
+         offset="0.97"
+         stop-color="#ffbc00"
+         id="stop833" /></linearGradient><linearGradient
+       id="37654abe-7548-425e-a035-8167a075b18a"
+       data-name="Degradado sin nombre 64"
+       x1="-1988.87"
+       y1="5268.77"
+       x2="-1930.78"
+       y2="5268.77"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0.32"
+         stop-color="#ffd983"
+         id="stop836" /><stop
+         offset="0.97"
+         stop-color="#ffbc00"
+         id="stop838" /></linearGradient><linearGradient
+       id="c6d8f736-e171-4b2b-9e60-771fd7133128"
+       data-name="Degradado sin nombre 41"
+       x1="-2119.3"
+       y1="5066.49"
+       x2="-2119.3"
+       y2="4974.98"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0.36"
+         stop-color="#0058c1"
+         id="stop841" /><stop
+         offset="0.43"
+         stop-color="#025bc6"
+         id="stop843" /><stop
+         offset="0.51"
+         stop-color="#0a62d3"
+         id="stop845" /><stop
+         offset="0.59"
+         stop-color="#166fea"
+         id="stop847" /><stop
+         offset="0.64"
+         stop-color="#1f79fc"
+         id="stop849" /><stop
+         offset="0.68"
+         stop-color="#1d77f8"
+         id="stop851" /><stop
+         offset="0.73"
+         stop-color="#1670eb"
+         id="stop853" /><stop
+         offset="0.77"
+         stop-color="#0b64d7"
+         id="stop855" /><stop
+         offset="0.8"
+         stop-color="#0058c1"
+         id="stop857" /></linearGradient><linearGradient
+       id="8b91a188-3536-496d-a0d5-e7d8248ad2cb"
+       data-name="Degradado sin nombre 63"
+       x1="-1819.51"
+       y1="5054.52"
+       x2="-1837.99"
+       y2="5018"
+       gradientTransform="matrix(1,0,0,-1,732.83,2681)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#003060"
+         id="stop860" /><stop
+         offset="0.21"
+         stop-color="#003e83"
+         id="stop862" /><stop
+         offset="0.51"
+         stop-color="#0051b0"
+         id="stop864" /><stop
+         offset="0.66"
+         stop-color="#0058c1"
+         id="stop866" /></linearGradient><linearGradient
+       id="d70415c2-d487-436b-a956-7bdfe3eb498c"
+       data-name="Degradado sin nombre 29"
+       x1="-2226.6"
+       y1="4730.98"
+       x2="-2167.43"
+       y2="4730.98"
+       gradientTransform="matrix(1,0,0,-1,3079,5595)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#8abfff"
+         id="stop869" /><stop
+         offset="0"
+         stop-color="#89befe"
+         id="stop871" /><stop
+         offset="0.14"
+         stop-color="#5f9fec"
+         id="stop873" /><stop
+         offset="0.27"
+         stop-color="#3d85dc"
+         id="stop875" /><stop
+         offset="0.41"
+         stop-color="#2271d0"
+         id="stop877" /><stop
+         offset="0.55"
+         stop-color="#0f63c8"
+         id="stop879" /><stop
+         offset="0.7"
+         stop-color="#045bc3"
+         id="stop881" /><stop
+         offset="0.85"
+         stop-color="#0058c1"
+         id="stop883" /></linearGradient></defs><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.381875"
+     inkscape:cx="-212.11129"
+     inkscape:cy="200.32733"
+     inkscape:window-width="1600"
+     inkscape:window-height="793"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" /><g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"><rect
+       style="fill:#ffffff;stroke-width:1.19807"
+       id="rect220"
+       width="743.69775"
+       height="548.58356"
+       x="-4.8290458"
+       y="-4.4221087" /></g></svg>
