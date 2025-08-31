@@ -762,7 +762,7 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 https://www.youtube.com/watch?v=3wQuT_I8Mis
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CITYTV.png" group-title="OTRO REPRODUCTOR",city tv
-https://www.youtube.com/watch?v=7061sQBO_Pk
+https://www.youtube.com/watch?v=ZFvgqiV2tAQ
 
 #EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
@@ -810,6 +810,7 @@ http://181.78.7.90:12500/play/SEXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/VENUS.png" group-title="ADULTOS",VENUS
 http://181.78.7.90:12500/play/VENUS/index.m3u8
 #http://190.60.40.35:12500/play/VENUS/index.m3u8
+
 
 
 
