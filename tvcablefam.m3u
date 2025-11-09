@@ -739,7 +739,8 @@ http://104.238.222.251:8989/280080_.m3u8
 #http://190.60.40.35:12500/play/WINMAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/.png" group-title="DEPORTES",FOX SPORTS
-https://4.betzta.com/foxsports/mono.m3u8?token=eb627291998d62b7dc82e76f33e05736c19e92a2-9a-1762643197-1762625197
+https://rm8zcvk3.fubohd.com/foxsports/mono.m3u8?token=1c37f6766379e17645f5d195f468fc22c2592c14-ef-1762722087-1762704087
+#https://4.betzta.com/foxsports/mono.m3u8?token=eb627291998d62b7dc82e76f33e05736c19e92a2-9a-1762643197-1762625197
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/.png" group-title="DEPORTES", DSPORTS
 http://38.183.182.166:8000/play/a125/index.m3u8
@@ -803,6 +804,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007
 
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="OTRO REPRODUCTOR",PLUTO CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
+
 
 
 
