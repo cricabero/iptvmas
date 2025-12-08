@@ -197,7 +197,8 @@ http://201.230.137.204:8000/play/a0j3/index.m3u8
 #http://201.230.137.204:8000/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/DISCOVERYKIDS.png" group-title="INFANTIL",Discovery Kids
-http://201.230.137.204:8000/play/a0f3/index.m3u8
+http://189.50.210.3:8008/play/a07u/index.m3u8
+#http://201.230.137.204:8000/play/a0f3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/DTHEATER.png" group-title="DOCUMENTALES",Discovery Theater HD
 http://201.230.137.204:8000/play/a0i4/index.m3u8
@@ -748,7 +749,8 @@ https://rm8zcvk3.fubohd.com/foxsports/mono.m3u8?token=1c37f6766379e17645f5d195f4
 http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",RCN 
-http://38.183.182.166:8000/play/a10i/index.m3u8
+http://189.50.210.3:8008/play/a04i/index.m3u8
+#http://38.183.182.166:8000/play/a10i/index.m3u8
 
 #EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
@@ -761,6 +763,10 @@ http://201.230.137.204:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/ZOOM.png" group-title="TV REGIONAL" http-referrer="https://canalzoom.org/senal-en-vivo",Zoom
 #EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+
+#EXTINF:-1 group-title="-",Discovery Science
+http://189.50.210.3:8008/play/a05s/index.m3u8
 
 
 
@@ -808,6 +814,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007
 
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="OTRO REPRODUCTOR",PLUTO CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
+
 
 
 
