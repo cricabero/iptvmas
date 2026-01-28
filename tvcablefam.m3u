@@ -60,7 +60,8 @@ http://189.50.210.3:8008/play/a06h/index.m3u8
 #DEPORTES
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/WINMAS.png" group-title="DEPORTES",WIN SOPORT MAS
-http://189.50.210.3:8008/play/a04n/index.m3u8
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#http://189.50.210.3:8008/play/a04n/index.m3u8
 #http://104.238.222.251:8989/280080_.m3u8
 #https://bgfuzq.fubohd.com/winsportsplus/mono.m3u8?token=aba7e31f9ab372c4efe5fe8851b6c2e1d32aa4ed-5d-1764530553-1764512553
 #http://181.78.7.90:12500/play/WINMAS/index.m3u8
@@ -749,6 +750,7 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 
 ##EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 #http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
 
 
 
