@@ -344,7 +344,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #NOHD#http://190.102.123.28:8097/play/a0dh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CNN.png" group-title="OTROS",CNN Español
-http://201.230.137.204:8000/play/a0f4/index.m3u8
+http://181.78.8.199:8000/play/a0dt/index.m3u8
+#http://201.230.137.204:8000/play/a0f4/index.m3u8
 #http://190.102.123.28:8097/play/a0bo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/STARTVE.png" group-title="OTROS",STAR TVE
@@ -752,6 +753,7 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 
 ##EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 #http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
 
 
 
