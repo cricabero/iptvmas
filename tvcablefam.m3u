@@ -11,7 +11,8 @@ http://181.78.7.90:12500/play/a06b/index.m3u8
 #http://190.60.40.35:12500/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="TV NACIONAL",RCN
-http://189.50.210.3:8008/play/a04i/index.m3u8
+http://181.78.8.199:8000/play/a0az/index.m3u8
+#http://189.50.210.3:8008/play/a04i/index.m3u8
 #http://38.183.182.166:8000/play/a10i/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/CANALUNO.png" group-title="TV NACIONAL",Canal UNO
@@ -49,7 +50,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CITYTV.png" group-title="OTRO REPRODUCTOR",city tv
-http://189.50.210.3:8008/play/a06h/index.m3u8
+http://181.78.8.199:8000/play/a0ek/index.m3u8
+#http://189.50.210.3:8008/play/a06h/index.m3u8
 #http://162.207.11.109:9981/stream/channelid/1037732737?profile=pass
 #https://www.youtube.com/live/zPGyDRY9dfQ?si=QqI1Jq_g9A1W1pRv
 
@@ -750,6 +752,7 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 
 ##EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 #http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
 
 
 
