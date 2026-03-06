@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/SENALCOLOMBIA.png" group-title="NACIONALES",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CARACOL.png" group-title="NACIONALES",Caracol HD
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CARACOL.png" group-title="NACIONALES",Caracol 
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 #http://181.78.7.90:12500/play/a06b/index.m3u8
 #http://190.60.40.35:12500/play/a06b/index.m3u8
@@ -50,13 +50,13 @@ http://201.230.137.204:8000/play/a0ff/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NACIONALES",Cablenoticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+#https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CITYTV.png" group-title="NACIONALES",city tv
 http://181.78.8.199:8000/play/a0ek/index.m3u8
 #http://189.50.210.3:8008/play/a06h/index.m3u8
 #http://162.207.11.109:9981/stream/channelid/1037732737?profile=pass
-#https://www.youtube.com/live/zPGyDRY9dfQ?si=QqI1Jq_g9A1W1pRv
 
 
 
@@ -81,12 +81,10 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 http://189.50.210.3:8008/play/a061/index.m3u8
 #http://38.183.182.166:8000/play/a125/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN.png" group-title="DEPORTES",ESPN HD
-http://201.230.137.204:8000/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN.png" group-title="DEPORTES",ESPN 
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#http://201.230.137.204:8000/play/a0ib/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0eh/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN.png" group-title="DEPORTES",ESPN HD2
-http://201.230.137.204:8000/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN2.png" group-title="DEPORTES",ESPN 2
 http://201.230.137.204:8000/play/a0i6/index.m3u8
@@ -98,7 +96,8 @@ http://181.78.7.90:12500/play/a00q/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN4.png" group-title="DEPORTES",ESPN 4
-http://190.60.40.35:12500/play/a0cx/index.m3u8
+http://181.78.8.199:8000/play/a09b/index.m3u8
+#http://190.60.40.35:12500/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN5.png" group-title="DEPORTES",ESPN 5
 http://201.230.137.204:8000/play/a0fp/index.m3u8
@@ -119,12 +118,12 @@ http://201.230.137.204:8000/play/a0ej/index.m3u8
 #http://181.78.7.90:12500/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/GOLPERU.png" group-title="DEPORTES",GOL PERU
-http://201.230.137.204:8000/play/a0h4/index.m3u8
+http://201.230.137.204:8000/play/a0h4/index.m3u
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",Gol TV
 http://189.50.210.3:8008/play/a06w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",TNT Sports Premiun HD
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",TNT Sports Premiun 
 http://189.50.210.3:8008/play/a031/index.m3u8
 
 
@@ -151,7 +150,8 @@ http://201.230.137.204:8000/play/a0ik/index.m3u8
 #http://201.230.137.204:8000/play/a0er/index.m3u8
 
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://cricabero.github.io/iptvmas/logo/HISTORY2.png" group-title="PREMIUM",History 2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+http://181.78.8.199:8000/play/a0ag/index.m3u8
+#https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",Discovery Science
 http://189.50.210.3:8008/play/a05s/index.m3u8
@@ -168,20 +168,24 @@ http://201.230.137.204:8000/play/a0i4/index.m3u8
 http://201.230.137.204:8000/play/a0g0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/DWORLD.png" group-title="PREMIUM",Discovery World
-http://201.230.137.204:8000/play/a069/index.m3u8
+http://189.50.210.3:8008/play/a02v/index.m3u8
+#http://201.230.137.204:8000/play/a069/index.m3u8
 #http://201.230.137.204:8000/play/a0hz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/H&H.png" group-title="PREMIUM",Discovery H&H
-http://190.60.40.35:12500/play/a0cw/index.m3u8
+http://181.78.8.199:8000/play/a071/index.m3u8
+#http://190.60.40.35:12500/play/a0cw/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/DISCOVERYID.png" group-title="PREMIUM", Discovery ID
-http://201.230.137.204:8000/play/a0fg/index.m3u8
+http://181.78.8.199:8000/play/a0c5/index.m3u8
+#http://201.230.137.204:8000/play/a0fg/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBO.png" group-title="PREMIUM",HBO
+http://189.50.210.3:8008/play/a032/index.m3u8
 #http://201.230.137.204:8000/play/a0hy/index.m3u8
-http://201.230.137.204:8000/play/a06h/index.m3u8
+#http://201.230.137.204:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBO2.png" group-title="PREMIUM",HBO 2
 http://201.230.137.204:8000/play/a0f5/index.m3u8
@@ -191,10 +195,12 @@ http://201.230.137.204:8000/play/a0id/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPOP.png" group-title="PREMIUM",HBO POP
-http://201.230.137.204:8000/play/a06j/index.m3u8
+http://189.50.210.3:8008/play/a034/index.m3u8
+#http://201.230.137.204:8000/play/a06j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPLUS.png" group-title="PREMIUM",HBO Plus
-http://201.230.137.204:8000/play/a0f6/index.m3u8
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPLUS.png" group-title="PREMIUM",HBO Mundi
+http://189.50.210.3:8008/play/a071/index.m3u8
+#http://201.230.137.204:8000/play/a0f6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOS.png" group-title="PREMIUM",HBO Signature
 http://201.230.137.204:8000/play/a0by/index.m3u8
@@ -204,11 +210,13 @@ http://201.230.137.204:8000/play/a0ie/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/PARAMOUNT.png" group-title="PREMIUM",Paramount
-http://201.230.137.204:8000/play/a0hr/index.m3u8
+http://189.50.210.3:8008/play/a061/index.m3u8
+#http://201.230.137.204:8000/play/a0hr/index.m3u8
 #http://190.60.40.35:12500/play/a0cy/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://cricabero.github.io/iptvmas/logo/CINECANAL.png" group-title="PREMIUM",Cinecanal
-http://201.230.137.204:8000/play/a06f/index.m3u8
+http://181.78.8.199:8000/play/a094/index.m3u8
+#http://201.230.137.204:8000/play/a06f/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0es/index.m3u8
 #https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
@@ -217,12 +225,14 @@ http://201.230.137.204:8000/play/a0ip/index.m3u8
 #http://201.230.137.204:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/SPACE.png" group-title="PREMIUM",Space
-http://201.230.137.204:8000/play/a06e/index.m3u8
+http://189.50.210.3:8008/play/a02y/index.m3u8
+#http://201.230.137.204:8000/play/a06e/index.m3u8
 #http://201.230.137.204:8000/play/a0it/index.m3u8
 #http://201.230.137.204:8000/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/STUDIOUNIVERSAL.png" group-title="PREMIUM",Studio Universal
-http://201.230.137.204:8000/play/a0hi/index.m3u8
+http://181.78.8.199:8000/play/a0cf/index.m3u8
+#http://201.230.137.204:8000/play/a0hi/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0fa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/TNT.png" group-title="PREMIUM",TNT
@@ -232,7 +242,8 @@ http://201.230.137.204:8000/play/a0im/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/FX.png" group-title="PREMIUM",FX
-http://201.230.137.204:8000/play/a0iw/index.m3u8
+http://189.50.210.3:8008/play/a036/index.m3u8
+#http://201.230.137.204:8000/play/a0iw/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0fx/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://cricabero.github.io/iptvmas/logo/CINEMAX.png" group-title="PREMIUM",Cinemax
@@ -287,6 +298,12 @@ http://201.230.137.204:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",Film&Arts
 http://189.50.210.3:8008/play/a06m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",FMH Movies
+http://181.78.8.199:8000/play/a06u/index.m3u8
 
 
 
@@ -753,6 +770,7 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 
 ##EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 #http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
 
 
 
