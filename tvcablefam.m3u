@@ -302,6 +302,15 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",FMH Movies
 http://181.78.8.199:8000/play/a06u/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",DE PELICULA
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="PREMIUM",DHE 
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a086/index.m3u8
+
+
 
 
 #INFANTIL
@@ -770,6 +779,7 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 
 ##EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 #http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
 
 
 
