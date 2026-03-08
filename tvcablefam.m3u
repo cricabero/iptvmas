@@ -49,9 +49,9 @@ http://201.230.137.204:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/RCNMAS.png" group-title="NACIONALES",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NACIONALES",Cablenoticias
-http://181.78.8.199:8000/play/a0e8/index.m3u8
-#https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="NACIONALES",CANAL INSTITUCIONAL 
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CITYTV.png" group-title="NACIONALES",city tv
 http://181.78.8.199:8000/play/a0ek/index.m3u8
@@ -344,6 +344,9 @@ http://189.50.210.3:8008/play/a035/index.m3u8
 
 #OTROS
 
+#EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="OTROS",Cablenoticias
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+#https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://cricabero.github.io/iptvmas/logo/DW.png" group-title="OTROS",DW Español
@@ -767,6 +770,7 @@ http://189.50.210.3:8008/play/a061/index.m3u8
 
 ##EXTINF:-1 tvg-id="Canal10SOLTV.co" tvg-logo="https://cricabero.github.io/iptvmas/logo/SOLTV.png" group-title="OTRO REPRODUCTOR",Canal 10 SOL TV
 #http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
 
 
 
