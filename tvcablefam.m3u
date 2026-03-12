@@ -73,10 +73,16 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 #http://181.78.7.90:12500/play/WINMAS/index.m3u8
 #http://190.60.40.35:12500/play/WINMAS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES", DSPORTS
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES", D-SPORTS
 http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
 #http://189.50.210.3:8008/play/a061/index.m3u8
 #http://38.183.182.166:8000/play/a125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES", D-SPORTS 2
+http://live.btv.mx:2424/stream/279391/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES", D-SPORTS MAS
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/306887.ts
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",FOX SPORTS COL
 http://177.53.153.207:8000/play/a008/index.m3u8
@@ -89,6 +95,12 @@ http://live.btv.mx:2424/stream/278597/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",FOX SPORTS 2
 http://live.btv.mx:2424/stream/278767/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",SKY BUNDESLIGA
+http://live.btv.mx:2424/stream/281172/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",SKY LA LIGA
+http://live.btv.mx:2424/stream/281171/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN.png" group-title="DEPORTES",ESPN 
 http://181.78.8.199:8000/play/a08y/index.m3u8
@@ -574,6 +586,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #COMODIN
 #EXTINF:-1 group-title="-",Movistar Informa
 http://189.50.210.3:8008/play/a061/index.m3u8
+
 
 
 
