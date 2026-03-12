@@ -3,7 +3,7 @@
 #NACIONALES
 
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/SENALCOLOMBIA.png" group-title="NACIONALES",SEÑAL COLOMBIA
+#EXTINF:0 tvg-logo="https://cricabero.github.io/iptvmas/logo/SENALCOLOMBIA.png" group-title="NACIONALES",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/CARACOL.png" group-title="NACIONALES",Caracol 
@@ -565,6 +565,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #COMODIN
 #EXTINF:-1 group-title="-",Movistar Informa
 http://189.50.210.3:8008/play/a061/index.m3u8
+
 
 
 
