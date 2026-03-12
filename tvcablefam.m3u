@@ -73,14 +73,15 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 #http://181.78.7.90:12500/play/WINMAS/index.m3u8
 #http://190.60.40.35:12500/play/WINMAS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES", DSPORTS
+http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
+#http://189.50.210.3:8008/play/a061/index.m3u8
+#http://38.183.182.166:8000/play/a125/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES",FOX SPORTS
 http://189.50.210.3:8008/play/a061/index.m3u8
 #https://rm8zcvk3.fubohd.com/foxsports/mono.m3u8?token=1c37f6766379e17645f5d195f468fc22c2592c14-ef-1762722087-1762704087
 #https://4.betzta.com/foxsports/mono.m3u8?token=eb627291998d62b7dc82e76f33e05736c19e92a2-9a-1762643197-1762625197
-
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/LOGO.png" group-title="DEPORTES", DSPORTS
-http://189.50.210.3:8008/play/a061/index.m3u8
-#http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/ESPN.png" group-title="DEPORTES",ESPN 
 http://181.78.8.199:8000/play/a08y/index.m3u8
@@ -566,6 +567,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #COMODIN
 #EXTINF:-1 group-title="-",Movistar Informa
 http://189.50.210.3:8008/play/a061/index.m3u8
+
 
 
 
