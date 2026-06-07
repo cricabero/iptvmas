@@ -182,31 +182,31 @@ http://181.78.8.199:8000/play/a0c5/index.m3u8
 #http://201.230.137.204:8000/play/a0fg/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBO.png" group-title="PREMIUM",HBO
-http://189.50.210.3:8008/play/a032/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBO.png" group-title="PREMIUM",HBO
+#http://189.50.210.3:8008/play/a032/index.m3u8
 #http://201.230.137.204:8000/play/a0hy/index.m3u8
 #http://201.230.137.204:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBO2.png" group-title="PREMIUM",HBO 2
-http://201.230.137.204:8000/play/a0f5/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBO2.png" group-title="PREMIUM",HBO 2
+#http://201.230.137.204:8000/play/a0f5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOFAMILY.png" group-title="PREMIUM",HBO Family
-http://201.230.137.204:8000/play/a0id/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOFAMILY.png" group-title="PREMIUM",HBO Family
+#http://201.230.137.204:8000/play/a0id/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0f8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPOP.png" group-title="PREMIUM",HBO POP
-http://189.50.210.3:8008/play/a034/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPOP.png" group-title="PREMIUM",HBO POP
+#http://189.50.210.3:8008/play/a034/index.m3u8
 #http://201.230.137.204:8000/play/a06j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPLUS.png" group-title="PREMIUM",HBO Mundi
-http://189.50.210.3:8008/play/a071/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOPLUS.png" group-title="PREMIUM",HBO Mundi
+#http://189.50.210.3:8008/play/a071/index.m3u8
 #http://201.230.137.204:8000/play/a0f6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOS.png" group-title="PREMIUM",HBO Signature
-http://201.230.137.204:8000/play/a0by/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOS.png" group-title="PREMIUM",HBO Signature
+#http://201.230.137.204:8000/play/a0by/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOX.png" group-title="PREMIUM",HBO XTREME
-http://201.230.137.204:8000/play/a0ie/index.m3u8
+##EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/HBOX.png" group-title="PREMIUM",HBO XTREME
+#http://201.230.137.204:8000/play/a0ie/index.m3u8
 #NOHD#http://201.230.137.204:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cricabero.github.io/iptvmas/logo/PARAMOUNT.png" group-title="PREMIUM",Paramount
